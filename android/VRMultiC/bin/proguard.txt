@@ -1,0 +1,9 @@
+# view AndroidManifest.xml #generated:14
+-keep class com.kfirvr.vrcontrol.MainApplication { <init>(...); }
+
+# view AndroidManifest.xml #generated:21
+-keep class com.kfirvr.vrcontrolc.MainActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:33
+-keep class com.kfirvr.vrcontrolc.server.ClientServer { <init>(...); }
+

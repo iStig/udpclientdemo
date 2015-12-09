@@ -1,0 +1,209 @@
+android.support.v4.app.ActionBarDrawerToggle
+android.support.v4.app.ActivityCompat
+android.support.v4.app.BackStackState
+android.support.v4.app.BackStackState: android.os.Parcelable$Creator CREATOR
+android.support.v4.app.DialogFragment
+android.support.v4.app.Fragment$SavedState
+android.support.v4.app.Fragment$SavedState: android.os.Parcelable$Creator CREATOR
+android.support.v4.app.FragmentActivity
+android.support.v4.app.FragmentManagerState
+android.support.v4.app.FragmentManagerState: android.os.Parcelable$Creator CREATOR
+android.support.v4.app.FragmentPagerAdapter
+android.support.v4.app.FragmentState
+android.support.v4.app.FragmentState: android.os.Parcelable$Creator CREATOR
+android.support.v4.app.FragmentStatePagerAdapter
+android.support.v4.app.FragmentTabHost: void setOnTabChangedListener(android.widget.TabHost$OnTabChangeListener)
+android.support.v4.app.FragmentTabHost$SavedState
+android.support.v4.app.FragmentTabHost$SavedState: android.os.Parcelable$Creator CREATOR
+android.support.v4.app.INotificationSideChannel$Stub
+android.support.v4.app.ListFragment
+android.support.v4.app.NotificationCompat$Action
+android.support.v4.app.NotificationCompat$Action$WearableExtender
+android.support.v4.app.NotificationCompat$BigPictureStyle
+android.support.v4.app.NotificationCompat$BigTextStyle
+android.support.v4.app.NotificationCompat$CarExtender
+android.support.v4.app.NotificationCompat$CarExtender$UnreadConversation
+android.support.v4.app.NotificationCompat$InboxStyle
+android.support.v4.app.NotificationCompat$WearableExtender
+android.support.v4.app.NotificationCompatApi20$Builder
+android.support.v4.app.NotificationCompatApi21$Builder
+android.support.v4.app.NotificationCompatJellybean$Builder
+android.support.v4.app.NotificationCompatKitKat$Builder
+android.support.v4.app.NotificationCompatSideChannelService
+android.support.v4.app.RemoteInput
+android.support.v4.content.AsyncTaskLoader
+android.support.v4.content.CursorLoader
+android.support.v4.content.FileProvider
+android.support.v4.content.ModernAsyncTask$Status: android.support.v4.content.ModernAsyncTask$Status[] values()
+android.support.v4.content.ModernAsyncTask$Status: android.support.v4.content.ModernAsyncTask$Status valueOf(java.lang.String)
+android.support.v4.content.WakefulBroadcastReceiver
+android.support.v4.internal.view.SupportSubMenu
+android.support.v4.media.MediaMetadataCompat
+android.support.v4.media.MediaMetadataCompat: android.os.Parcelable$Creator CREATOR
+android.support.v4.media.RatingCompat
+android.support.v4.media.RatingCompat: android.os.Parcelable$Creator CREATOR
+android.support.v4.media.TransportMediator
+android.support.v4.media.routing.MediaRouterJellybeanMr1$Callback
+android.support.v4.media.session.MediaSessionCompat$Token
+android.support.v4.media.session.MediaSessionCompat$Token: android.os.Parcelable$Creator CREATOR
+android.support.v4.media.session.PlaybackStateCompat
+android.support.v4.media.session.PlaybackStateCompat: android.os.Parcelable$Creator CREATOR
+android.support.v4.util.ArrayMap
+android.support.v4.util.Pools$SimplePool
+android.support.v4.util.Pools$SynchronizedPool
+android.support.v4.view.PagerTabStrip
+android.support.v4.view.PagerTabStrip: void setTabIndicatorColor(int)
+android.support.v4.view.PagerTabStrip: void setTabIndicatorColorResource(int)
+android.support.v4.view.PagerTabStrip: int getTabIndicatorColor()
+android.support.v4.view.PagerTabStrip: void setTextSpacing(int)
+android.support.v4.view.PagerTabStrip: void setBackgroundDrawable(android.graphics.drawable.Drawable)
+android.support.v4.view.PagerTabStrip: void setBackgroundColor(int)
+android.support.v4.view.PagerTabStrip: void setBackgroundResource(int)
+android.support.v4.view.PagerTabStrip: void setDrawFullUnderline(boolean)
+android.support.v4.view.PagerTabStrip: boolean getDrawFullUnderline()
+android.support.v4.view.PagerTabStrip: int getMinHeight()
+android.support.v4.view.PagerTitleStrip
+android.support.v4.view.PagerTitleStrip: void setSingleLineAllCaps(android.widget.TextView)
+android.support.v4.view.PagerTitleStrip: void setTextSpacing(int)
+android.support.v4.view.PagerTitleStrip: int getTextSpacing()
+android.support.v4.view.PagerTitleStrip: void setNonPrimaryAlpha(float)
+android.support.v4.view.PagerTitleStrip: void setTextColor(int)
+android.support.v4.view.PagerTitleStrip: void setGravity(int)
+android.support.v4.view.PagerTitleStrip: int getMinHeight()
+android.support.v4.view.ViewPager: void setScrollState(int)
+android.support.v4.view.ViewPager: void setAdapter(android.support.v4.view.PagerAdapter)
+android.support.v4.view.ViewPager: android.support.v4.view.PagerAdapter getAdapter()
+android.support.v4.view.ViewPager: void setOnAdapterChangeListener(android.support.v4.view.ViewPager$OnAdapterChangeListener)
+android.support.v4.view.ViewPager: int getClientWidth()
+android.support.v4.view.ViewPager: void setCurrentItem(int)
+android.support.v4.view.ViewPager: int getCurrentItem()
+android.support.v4.view.ViewPager: void setOnPageChangeListener(android.support.v4.view.ViewPager$OnPageChangeListener)
+android.support.v4.view.ViewPager: void setChildrenDrawingOrderEnabledCompat(boolean)
+android.support.v4.view.ViewPager: int getOffscreenPageLimit()
+android.support.v4.view.ViewPager: void setOffscreenPageLimit(int)
+android.support.v4.view.ViewPager: void setPageMargin(int)
+android.support.v4.view.ViewPager: int getPageMargin()
+android.support.v4.view.ViewPager: void setPageMarginDrawable(android.graphics.drawable.Drawable)
+android.support.v4.view.ViewPager: void setPageMarginDrawable(int)
+android.support.v4.view.ViewPager: void setScrollingCacheEnabled(boolean)
+android.support.v4.view.ViewPager$SavedState
+android.support.v4.view.ViewPager$SavedState: android.os.Parcelable$Creator CREATOR
+android.support.v4.view.ViewPager$SimpleOnPageChangeListener
+android.support.v4.view.ViewPropertyAnimatorListenerAdapter
+android.support.v4.widget.CursorAdapter
+android.support.v4.widget.DrawerLayout
+android.support.v4.widget.DrawerLayout: void setScrimColor(int)
+android.support.v4.widget.DrawerLayout: void setDrawerListener(android.support.v4.widget.DrawerLayout$DrawerListener)
+android.support.v4.widget.DrawerLayout: void setDrawerLockMode(int)
+android.support.v4.widget.DrawerLayout: void setStatusBarBackground(android.graphics.drawable.Drawable)
+android.support.v4.widget.DrawerLayout: void setStatusBarBackground(int)
+android.support.v4.widget.DrawerLayout: void setStatusBarBackgroundColor(int)
+android.support.v4.widget.DrawerLayout$SavedState
+android.support.v4.widget.DrawerLayout$SavedState: android.os.Parcelable$Creator CREATOR
+android.support.v4.widget.DrawerLayout$SimpleDrawerListener
+android.support.v4.widget.ExploreByTouchHelper
+android.support.v4.widget.ListViewAutoScrollHelper
+android.support.v4.widget.ResourceCursorAdapter
+android.support.v4.widget.SimpleCursorAdapter
+android.support.v4.widget.SlidingPaneLayout: void setParallaxDistance(int)
+android.support.v4.widget.SlidingPaneLayout: int getParallaxDistance()
+android.support.v4.widget.SlidingPaneLayout: void setSliderFadeColor(int)
+android.support.v4.widget.SlidingPaneLayout: int getSliderFadeColor()
+android.support.v4.widget.SlidingPaneLayout: void setCoveredFadeColor(int)
+android.support.v4.widget.SlidingPaneLayout: int getCoveredFadeColor()
+android.support.v4.widget.SlidingPaneLayout: void setPanelSlideListener(android.support.v4.widget.SlidingPaneLayout$PanelSlideListener)
+android.support.v4.widget.SlidingPaneLayout: void setShadowDrawable(android.graphics.drawable.Drawable)
+android.support.v4.widget.SlidingPaneLayout: void setShadowDrawableLeft(android.graphics.drawable.Drawable)
+android.support.v4.widget.SlidingPaneLayout: void setShadowDrawableRight(android.graphics.drawable.Drawable)
+android.support.v4.widget.SlidingPaneLayout: void setShadowResource(int)
+android.support.v4.widget.SlidingPaneLayout: void setShadowResourceLeft(int)
+android.support.v4.widget.SlidingPaneLayout: void setShadowResourceRight(int)
+android.support.v4.widget.SlidingPaneLayout$SavedState
+android.support.v4.widget.SlidingPaneLayout$SavedState: android.os.Parcelable$Creator CREATOR
+android.support.v4.widget.SlidingPaneLayout$SimplePanelSlideListener
+android.support.v4.widget.SwipeRefreshLayout: void setColorViewAlpha(int)
+android.support.v4.widget.SwipeRefreshLayout: void setSize(int)
+android.support.v4.widget.SwipeRefreshLayout: void setOnRefreshListener(android.support.v4.widget.SwipeRefreshLayout$OnRefreshListener)
+android.support.v4.widget.SwipeRefreshLayout: void setRefreshing(boolean)
+android.support.v4.widget.SwipeRefreshLayout: void setAnimationProgress(float)
+android.support.v4.widget.SwipeRefreshLayout: void setProgressBackgroundColor(int)
+android.support.v4.widget.SwipeRefreshLayout: void setColorScheme(int[])
+android.support.v4.widget.SwipeRefreshLayout: void setColorSchemeResources(int[])
+android.support.v4.widget.SwipeRefreshLayout: void setColorSchemeColors(int[])
+android.support.v4.widget.SwipeRefreshLayout: void setDistanceToTriggerSync(int)
+com.kfirvr.vrcontrols.DeviceMain
+com.kfirvr.vrcontrols.DeviceMain: DeviceMain()
+com.kfirvr.vrcontrols.R$color: int homeback
+com.kfirvr.vrcontrols.R$color: int orange
+com.kfirvr.vrcontrols.R$color: int text_color
+com.kfirvr.vrcontrols.R$color: int text_press_color
+com.kfirvr.vrcontrols.R$color: int text_selected_color
+com.kfirvr.vrcontrols.R$color: int textcolor
+com.kfirvr.vrcontrols.R$color: int white
+com.kfirvr.vrcontrols.R$drawable: int bg
+com.kfirvr.vrcontrols.R$drawable: int checkbox_selector
+com.kfirvr.vrcontrols.R$drawable: int film_icon
+com.kfirvr.vrcontrols.R$drawable: int ic_launcher
+com.kfirvr.vrcontrols.R$drawable: int screen_icon
+com.kfirvr.vrcontrols.R$id: int all_play
+com.kfirvr.vrcontrols.R$id: int all_poweroff
+com.kfirvr.vrcontrols.R$id: int btn_play
+com.kfirvr.vrcontrols.R$id: int device_battery
+com.kfirvr.vrcontrols.R$id: int device_id
+com.kfirvr.vrcontrols.R$id: int device_play
+com.kfirvr.vrcontrols.R$id: int device_wifi
+com.kfirvr.vrcontrols.R$id: int file_list
+com.kfirvr.vrcontrols.R$id: int file_mode
+com.kfirvr.vrcontrols.R$id: int file_name
+com.kfirvr.vrcontrols.R$id: int film_name_type
+com.kfirvr.vrcontrols.R$id: int grid_image
+com.kfirvr.vrcontrols.R$id: int image_icon
+com.kfirvr.vrcontrols.R$id: int item_getlist
+com.kfirvr.vrcontrols.R$id: int item_getscreen
+com.kfirvr.vrcontrols.R$id: int item_playpause
+com.kfirvr.vrcontrols.R$id: int item_poweroff
+com.kfirvr.vrcontrols.R$id: int item_stop
+com.kfirvr.vrcontrols.R$id: int linearLayout1
+com.kfirvr.vrcontrols.R$id: int list360
+com.kfirvr.vrcontrols.R$id: int list3D
+com.kfirvr.vrcontrols.R$id: int my_scrollview
+com.kfirvr.vrcontrols.R$id: int pad_title
+com.kfirvr.vrcontrols.R$id: int play_box
+com.kfirvr.vrcontrols.R$id: int status_box
+com.kfirvr.vrcontrols.R$id: int textView1
+com.kfirvr.vrcontrols.R$layout: int device_item_layout
+com.kfirvr.vrcontrols.R$layout: int device_layout
+com.kfirvr.vrcontrols.R$layout: int film_item_grid_layout
+com.kfirvr.vrcontrols.R$layout: int film_item_layout
+com.kfirvr.vrcontrols.R$layout: int main_board_layout
+com.kfirvr.vrcontrols.R$layout: int welcome_main_layout
+com.kfirvr.vrcontrols.R$string: int app_name
+com.kfirvr.vrcontrols.R$style: int AppBaseTheme
+com.kfirvr.vrcontrols.R$style: int AppTheme
+com.kfirvr.vrcontrols.R$style: int MyCheckBox
+com.kfirvr.vrcontrols.SApplication
+com.kfirvr.vrcontrols.SApplication: SApplication()
+com.kfirvr.vrcontrols.WelcomeMain
+com.kfirvr.vrcontrols.WelcomeMain: WelcomeMain()
+com.kfirvr.vrcontrols.server.MainServer
+com.kfirvr.vrcontrols.server.MainServer: MainServer()
+com.kfirvr.vrcontrols.server.SReceiver
+com.kfirvr.vrcontrols.server.SReceiver: SReceiver()
+org.apache.commons.net.ftp.FTPCmd: org.apache.commons.net.ftp.FTPCmd[] values()
+org.apache.commons.net.ftp.FTPCmd: org.apache.commons.net.ftp.FTPCmd valueOf(java.lang.String)
+org.apache.commons.net.imap.AuthenticatingIMAPClient$AUTH_METHOD: org.apache.commons.net.imap.AuthenticatingIMAPClient$AUTH_METHOD[] values()
+org.apache.commons.net.imap.AuthenticatingIMAPClient$AUTH_METHOD: org.apache.commons.net.imap.AuthenticatingIMAPClient$AUTH_METHOD valueOf(java.lang.String)
+org.apache.commons.net.imap.IMAP$IMAPState: org.apache.commons.net.imap.IMAP$IMAPState[] values()
+org.apache.commons.net.imap.IMAP$IMAPState: org.apache.commons.net.imap.IMAP$IMAPState valueOf(java.lang.String)
+org.apache.commons.net.imap.IMAPClient$FETCH_ITEM_NAMES: org.apache.commons.net.imap.IMAPClient$FETCH_ITEM_NAMES[] values()
+org.apache.commons.net.imap.IMAPClient$FETCH_ITEM_NAMES: org.apache.commons.net.imap.IMAPClient$FETCH_ITEM_NAMES valueOf(java.lang.String)
+org.apache.commons.net.imap.IMAPClient$SEARCH_CRITERIA: org.apache.commons.net.imap.IMAPClient$SEARCH_CRITERIA[] values()
+org.apache.commons.net.imap.IMAPClient$SEARCH_CRITERIA: org.apache.commons.net.imap.IMAPClient$SEARCH_CRITERIA valueOf(java.lang.String)
+org.apache.commons.net.imap.IMAPClient$STATUS_DATA_ITEMS: org.apache.commons.net.imap.IMAPClient$STATUS_DATA_ITEMS[] values()
+org.apache.commons.net.imap.IMAPClient$STATUS_DATA_ITEMS: org.apache.commons.net.imap.IMAPClient$STATUS_DATA_ITEMS valueOf(java.lang.String)
+org.apache.commons.net.imap.IMAPCommand: org.apache.commons.net.imap.IMAPCommand[] values()
+org.apache.commons.net.imap.IMAPCommand: org.apache.commons.net.imap.IMAPCommand valueOf(java.lang.String)
+org.apache.commons.net.pop3.ExtendedPOP3Client$AUTH_METHOD: org.apache.commons.net.pop3.ExtendedPOP3Client$AUTH_METHOD[] values()
+org.apache.commons.net.pop3.ExtendedPOP3Client$AUTH_METHOD: org.apache.commons.net.pop3.ExtendedPOP3Client$AUTH_METHOD valueOf(java.lang.String)
+org.apache.commons.net.smtp.AuthenticatingSMTPClient$AUTH_METHOD: org.apache.commons.net.smtp.AuthenticatingSMTPClient$AUTH_METHOD[] values()
+org.apache.commons.net.smtp.AuthenticatingSMTPClient$AUTH_METHOD: org.apache.commons.net.smtp.AuthenticatingSMTPClient$AUTH_METHOD valueOf(java.lang.String)

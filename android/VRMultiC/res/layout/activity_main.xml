@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" >
+
+    <ListView
+        android:id="@+id/lv"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:fastScrollEnabled="true"
+        android:scrollbars="none" />
+
+    <TextView
+        android:id="@+id/status"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" 
+        android:layout_below="@id/lv"
+        android:layout_marginTop="30dp"
+        android:text="未连接"/>
+    
+    <Button 
+        android:id="@+id/disconnect"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" 
+        android:layout_below="@id/status"
+        android:layout_marginTop="30dp"
+        android:text="断开连接"
+        />
+    
+           <EditText 
+        android:id="@+id/msg"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" 
+        android:layout_below="@id/disconnect"
+        android:layout_marginTop="30dp"
+        />
+    
+        <Button 
+        android:id="@+id/send"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" 
+        android:layout_below="@id/msg"
+        android:layout_marginTop="5dp"
+        android:text="发送"
+        />
+        
+          <TextView
+        android:id="@+id/receive"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" 
+        android:layout_below="@id/send"
+        android:layout_marginTop="30dp"/>
+
+</RelativeLayout>
